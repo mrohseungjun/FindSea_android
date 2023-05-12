@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "231570326167",
+    "project_id": "findsea-77ce8",
+    "storage_bucket": "findsea-77ce8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231570326167:android:f8cba9be47058a645a5fd2",
+        "android_client_info": {
+          "package_name": "com.fndsea.main"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231570326167-80eud3i2g5af3tgol93an5p8gd17egu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgcdJTq1jZVba5tyP4XrDIiBYWfI-7i1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231570326167-80eud3i2g5af3tgol93an5p8gd17egu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:paddingHorizontal="20dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="10dp"
+    android:background="#00000000">
+
+    <TextView
+        android:id="@+id/tableYear"
+        android:layout_width="20dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/kimm_light"
+        android:textSize="9dp" />
+
+    <TextView
+        android:id="@+id/wti"
+        android:layout_width="20dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/kimm_light"
+        android:textSize="9dp" />
+
+    <TextView
+        android:id="@+id/wtemp"
+        android:layout_width="20dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/kimm_light"
+        android:textSize="9dp" />
+
+    <TextView
+        android:id="@+id/temp"
+        android:layout_width="20dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/kimm_light"
+        android:textSize="9dp" />
+
+    <TextView
+        android:id="@+id/atm"
+        android:layout_width="20dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/kimm_light"
+        android:textSize="9dp" />
+
+    <TextView
+        android:id="@+id/ws"
+        android:layout_width="20dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/kimm_light"
+        android:textSize="9dp" />
+
+    <TextView
+        android:id="@+id/Catch"
+        android:layout_width="20dp"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/kimm_light"
+        android:textSize="9dp" />
+
+</LinearLayout>
